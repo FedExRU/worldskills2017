@@ -1,0 +1,506 @@
+ Staff ID Num Full Name                  Date of Birth    Gender    Position ID Position Name                Position Description         Pay Period     Pay Rate       Email Address                             Summary Informatio
+      1       LAKISHA # TOMBLIN              06.08.1961     F            2      Administrative Clerk         Provides administrative suppoH               $             l_tomblin@nnl.com                         Total Hourly Staff
+      2       KRIS|SWEELY                    24.12.1980     M            3      HR Clerk                     Provides support to the HR MaHourly          $             k_sweely@yahoo.com                        Total Yearly Staff
+      3       ELSIE|ESTELL                   07.07.1974     F            8      Workforce Support            Provides support to the WorkfHourly          $             elsie.estell@rrg.net                      Total Males:
+      4       TYRELL|ROSENBERG               02.08.1965    Male          6      Social Media Assistant       Provides support to the SociaHourly          $             tyrell_rosenberg@hotmail.com              Total Females:
+      5       MADELYN # HOOVER               04.12.1962     F            1      Helpdesk Advisor             Works on the helpdesk        H               $             madelyn_hoover@@hotmail.com
+      6       KENETH *PARHAM                 30.03.1967    Male          2      Administrative Clerk         Provides administrative suppoHourly          $             k_parham@live.com
+      7       LYLE *MALLORY                  06.07.1989   Males          8      Workforce Support            Provides support to the WorkfHourly          $             l_mallory@live.com
+      8       CLIFTON *FIGUEROA              23.03.1956     M            6      Social Media Assistant       Provides support to the SociaHourly          $             c_figueroa@live.com
+      9       MOHAMMAD|RICHEY                01.07.1995    Male          2      Administrative Clerk         Provides administrative suppoHourly          $             mohammad_richey@jcl.net
+      10      WINIFRED # DUNCAN              20.10.1968  Females        11      Sponsorship Coordinator      Identifies, develops and mainYearly          $            7w_duncan@hotmail.com
+      11      VERNITA # SEABORN              13.10.1993   Female        19      Administrative Manager       Oversees the administrative fYearly          $            6v_seaborn@gmail.com
+      12      LENORA|HIGGINS                 29.06.1997     F            3      HR Clerk                     Provides support to the HR MaHourly          $             l_higgins@msv.org
+      13      DON *RUSS                      13.10.1971    Male          4      Finance Clerk                Provides support to the FinanHourly          $             don_russ@jcl.net
+      14      THADDEUS *STALEY               13.02.1992     M            7      Assistant                    Works  in any number of areasHourly          $             t_staley@nnl.com
+      15      WILFORD *RIVERA                21.09.1978    Male          1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             wilford.rivera@gmail.com
+      16      LANCE|BEYER                    30.09.1990     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             l_beyer@rnl.com
+      17      LASHANDA|SNOWDEN               28.06.1983     F            8      Workforce Support            Provides support to the WorkfHourly          $             lashanda.snowden@rrg.net
+      18      GLORY *FELDER                  18.11.1963     F            3      HR Clerk                     Provides support to the HR MaHourly          $             glory.felder@@hotmail.com
+      19      ESTELLA *BLALOCK               17.10.1951     F            7      Assistant                    Works  in any number of areasHourly          $             e_blalock@@ccf.org
+      20      TRAVIS # RAMOS                 21.04.1983   Males          1      Helpdesk Advisor             Works on the helpdesk        H               $             travis_ramos@hotmail.com
+      21      ILA *THOMPSON                  17.05.1979     F            2      Administrative Clerk         Provides administrative suppoHourly          $             i_thompson@yahoo.com
+      22      LORRAINE|MCKEE                 11.10.1973   Female         6      Social Media Assistant       Provides support to the SociaHourly          $             l_mckee@hotmail.com
+      23      SHELLIE *MONTANO               19.09.1974     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             shellie_montano@hotmail.com
+      24      ERVIN # LAWRENCE               20.12.1984     M            8      Workforce Support            Provides support to the WorkfHourly          $             ervin_lawrence@hotmail.com
+      25      GOLDA # GRANGER                28.04.1982   Female         8      Workforce Support            Provides support to the WorkfHourly          $             g_granger@msv.org
+      26      KING|MERCADO                   26.11.1952     M           13      Social Media Coordinator     Manages content across socialYearly          $            7k_mercado@@hotmail.com
+      27      GERARDO # BOWSER               19.08.1953     M            2      Administrative Clerk         Provides administrative suppoH               $             gerardo_bowser@hotmail.com
+      28      KARIN # MCCARTY                17.10.1985     F            3      HR Clerk                     Provides support to the HR MaHourly          $             k_mccarty@gmail.com
+      29      MAYRA # CALLAHAN               07.08.1979  Females         6      Social Media Assistant       Provides support to the SociaH               $             m_callahan@live.com
+      30      CALLAN|MCCONNELL               13.12.1958     M            8      Workforce Support            Provides support to the WorkfHourly          $             callan.mcconnell@@gmail.com
+      31      CLAYTON # MARKS                08.03.1988    Male          5      Marketing Assistant          Provides support to the MarkeH               $             c_marks@nnl.com
+      32      TRACY # CUMMINGS               07.01.1991     F            4      Finance Clerk                Provides support to the FinanH               $             tracy.cummings@gmail.com
+      33      NELSON *CASEY                  18.06.1986     M            8      Workforce Support            Provides support to the WorkfHourly          $             n_casey@hr.org
+      34      STAN # STOVALL                 07.10.1960    Male          6      Social Media Assistant       Provides support to the SociaHourly          $             s_stovall@gmail.com
+      35      EARLENE|HOGAN                  27.02.1964     F            8      Workforce Support            Provides support to the WorkfHourly          $             e_hogan@gmail.com
+      36      WAYNE|ROSARIO                  20.06.1953     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             w_rosario@gmail.com
+      37      AUTUMN # MCCALL                11.03.1965     F            3      HR Clerk                     Provides support to the HR MaHourly          $             autumn.mccall@rrg.net
+      38      PRINCESS *CATT                 21.06.1970  Females         8      Workforce Support            Provides support to the WorkfHourly          $             p_catt@hotmail.com
+      39      SIBYL *TAGALA                  21.05.1998     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             sibyl.tagala@hotmail.com
+      40      MILAGROS *BUSCH                20.12.1965   Female         8      Workforce Support            Provides support to the WorkfHourly          $             milagros_busch@jcl.net
+      41      DONNIE *JENNINGS               15.10.1969     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             d_jennings@@msv.org
+      42      OTIS # ENRIQUEZ                11.01.1986   Males         11      Sponsorship Coordinator      Identifies, develops and mainYearly          $            7otis_enriquez@hotmail.com
+      43      PETE *REDDING                  17.12.1988     M            2      Administrative Clerk         Provides administrative suppoHourly          $             p_redding@ccf.org
+      44      VAN|JACK                       18.02.1967   Males          8      Workforce Support            Provides support to the WorkfHourly          $             v_jack@hr.org
+      45      CYNTHIA *SOSA                  08.11.1989   Female         8      Workforce Support            Provides support to the WorkfHourly          $             c_sosa@gmail.com
+      46      LUCIA *SPICER                  26.09.1952   Female         7      Assistant                    Works  in any number of areasHourly          $             l_spicer@@yahoo.com
+      47      TONJA|LEPPALA                  20.05.1958     F            8      Workforce Support            Provides support to the WorkfHourly          $             t_leppala@yahoo.com
+      48      RENATO # CREECH                08.11.1967   Males          3      HR Clerk                     Provides support to the HR MaH               $             renato.creech@yahoo.com
+      49      DESMOND *JEFFERS               31.05.1952    Male          7      Assistant                    Works  in any number of areasHourly          $             desmond_jeffers@@hotmail.com
+      50      CANDELARIA *WISE               01.08.1967   Female         4      Finance Clerk                Provides support to the FinanHourly          $             c_wise@hotmail.com
+      51      RORY|RODEFER                   19.09.1995    Male          5      Marketing Assistant          Provides support to the MarkeHourly          $             rory_rodefer@ffrs.gov
+      52      SHERRI|CRAWFORD                24.01.1953     F            3      HR Clerk                     Provides support to the HR MaHourly          $             s_crawford@@yahoo.com
+      53      MANUELA *PRUETT                03.10.1964     F            3      HR Clerk                     Provides support to the HR MaHourly          $             manuela_pruett@yahoo.com
+      54      TASHA *INGRAHAM                06.10.1965  Females         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             t_ingraham@@gmail.com
+      55      TAMIKA *ESCOBEDO               29.03.1951     F            3      HR Clerk                     Provides support to the HR MaHourly          $             t_escobedo@@msv.org
+      56      MARTYN *GLEASON                08.06.1979    Male          2      Administrative Clerk         Provides administrative suppoHourly          $             m_gleason@nnl.com
+      57      CHRISTOPHER|LANGEVIN           12.11.1962     M            4      Finance Clerk                Provides support to the FinanHourly          $             c_langevin@@hotmail.com
+      58      NICHOLAS|FORRESTER             29.08.1996   Males          6      Social Media Assistant       Provides support to the SociaHourly          $             nicholas.forrester@rrg.net
+      59      MARITA *ELAM                   21.02.1984     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             m_elam@@yahoo.com
+      60      RYAN *HAHN                     20.04.1968     M            7      Assistant                    Works  in any number of areasHourly          $             ryan_hahn@hotmail.com
+      61      CHI *MIMS                      05.08.1963     M            7      Assistant                    Works  in any number of areasHourly          $             c_mims@@msv.org
+      62      SUSAN *VANCE                   07.09.1973     F            2      Administrative Clerk         Provides administrative suppoHourly          $             s_vance@gmail.com
+      63      GARETH *ROBERSON               30.04.1978    Male         11      Sponsorship Coordinator      Identifies, develops and mainYearly          $            7g_roberson@nnl.com
+      64      GREIG # WALTERS                03.11.1976     M            5      Marketing Assistant          Provides support to the MarkeH               $             g_walters@hotmail.com
+      65      ARMANDO *MOSLEY                01.01.1956    Male          3      HR Clerk                     Provides support to the HR MaHourly          $             a_mosley@hotmail.com
+      66      JAYSON|MCCLELLAND              15.03.1967     M            3      HR Clerk                     Provides support to the HR MaHourly          $             j_mcclelland@yahoo.com
+      67      GRANT # DOWDY                  15.12.1955    Male         21      Finance Manager              Responsible for the financialYearly          $          115grant.dowdy@hotmail.com
+      68      ALVA *OWEN                     20.08.1971     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             a_owen@hotmail.com
+      69      ELDON|CRAIG                    15.07.1983     M           10      Volunteer Coordinator        Coordinates  recruitment and Y               $            9e_craig@gmail.com
+      70      BOYCE # WILLIAM                06.12.1983     M            4      Finance Clerk                Provides support to the FinanH               $             b_william@hotmail.com
+      71      VITO # KANIECKI                31.03.1965     M            4      Finance Clerk                Provides support to the FinanH               $             v_kaniecki@hr.org
+      72      NAPOLEON # PEDROZO             07.04.1964    Male          2      Administrative Clerk         Provides administrative suppoHourly          $             n_pedrozo@hotmail.com
+      73      DARYL # MASON                  14.08.1977    Male          5      Marketing Assistant          Provides support to the MarkeH               $             d_mason@fin.gov
+      74      LESLIE *BOSTON                 24.07.1995    Male          3      HR Clerk                     Provides support to the HR MaHourly          $             leslie.boston@yahoo.com
+      75      MITCHEL *KIM                   29.12.1994    Male          2      Administrative Clerk         Provides administrative suppoHourly          $             m_kim@hotmail.com
+      76      BERTA|HERMAN                   24.05.1993  Females        13      Social Media Coordinator     Manages content across socialYearly          $            7b_herman@gmail.com
+      77      WILDA *LAMBERT                 03.09.1991   Female         6      Social Media Assistant       Provides support to the SociaHourly          $             w_lambert@yahoo.com
+      78      NEVA # CLAY                    26.12.1978     F            7      Assistant                    Works  in any number of areasH               $             n_clay@gmail.com
+      79      CHARLES *MACK                  11.08.1975     M            3      HR Clerk                     Provides support to the HR MaHourly          $             c_mack@hotmail.com
+      80      HETTIE *CARMONA                08.06.1996   Female         4      Finance Clerk                Provides support to the FinanHourly          $             h_carmona@ccf.org
+      81      LUCIEN|MURILLO                 24.06.1965    Male         10      Volunteer Coordinator        Coordinates  recruitment and Yearly          $            9l_murillo@fin.gov
+      82      DEVON|GOBERN                   02.09.1958    Male          8      Workforce Support            Provides support to the WorkfHourly          $             d_gobern@ccf.org
+      83      KRISTA *EARLY                  21.08.1985   Female         5      Marketing Assistant          Provides support to the MarkeHourly          $             k_early@hr.org
+      84      GREIG *CONN                    30.10.1993    Male          6      Social Media Assistant       Provides support to the SociaHourly          $             greig_conn@hotmail.com
+      85      IRMA|MONTANEZ                  27.11.1954     F            8      Workforce Support            Provides support to the WorkfHourly          $             i_montanez@gmail.com
+      86      JERRELL|OHARA                  16.05.1967    Male          8      Workforce Support            Provides support to the WorkfHourly          $             j_ohara@msv.org
+      87      BRANDON|YANG                   10.10.1975     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             brandon.yang@gmail.com
+      88      MARLENE # SCHUMACHER           05.11.1987     F            4      Finance Clerk                Provides support to the FinanHourly          $             marlene.schumacher@rrg.net
+      89      CLEMENTINE # JACKSON           13.06.1972     F            8      Workforce Support            Provides support to the WorkfHourly          $             clementine.jackson@gmail.com
+      90      SHAWANDA *CANTU                02.05.1977     F           13      Social Media Coordinator     Manages content across socialYearly          $            7s_cantu@hr.org
+      91      TAMIKA *COE                    02.09.1953     F            8      Workforce Support            Provides support to the WorkfHourly          $             t_coe@fin.gov
+      92      ABRAHAM *GATLIN                19.06.1987     M            8      Workforce Support            Provides support to the WorkfHourly          $             abraham.gatlin@hotmail.com
+      93      JANE|HEDRICK                   05.03.1975     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             j_hedrick@gmail.com
+      94      ALONSO|HITCHCOCK               29.01.1968     M            8      Workforce Support            Provides support to the WorkfHourly          $             alonso.hitchcock@gmail.com
+      95      LEO # VEGA                     17.11.1957     M            3      HR Clerk                     Provides support to the HR MaHourly          $             l_vega@live.com
+      96      TANA *HILLMAN                  20.01.1957     F            2      Administrative Clerk         Provides administrative suppoHourly          $             tana_hillman@hotmail.com
+      97      NELLIE|LINDSEY                 05.06.1985  Females         2      Administrative Clerk         Provides administrative suppoHourly          $             n_lindsey@ccf.org
+      98      KELLEY|DANIEL                  19.06.1966     M            7      Assistant                    Works  in any number of areasHourly          $             kelley.daniel@gmail.com
+      99      MARGARETTE|STEM                12.09.1966     F           16      IT Manager                   Oversees the planning and cooY               $          130m_stem@ccf.org
+     100      KELVIN|RULAPAUGH               23.08.1983     M            2      Administrative Clerk         Provides administrative suppoHourly          $             k_rulapaugh@gmail.com
+     101      MAYRA # SMITH                  17.01.1982  Females         7      Assistant                    Works  in any number of areasH               $             m_smith@yahoo.com
+     102      JANNA|NICKA                    07.08.1980   Female         7      Assistant                    Works  in any number of areasHourly          $             j_nicka@msv.org
+     103      PAULINE # NEWCOMB              07.12.1957     F            1      Helpdesk Advisor             Works on the helpdesk        H               $             p_newcomb@@gmail.com
+     104      ELVA # PATTEN                  07.04.1983     F            7      Assistant                    Works  in any number of areasH               $             e_patten@msv.org
+     105      SHANE *COLAIZZO                30.05.1970     M           16      IT Manager                   Oversees the planning and cooYearly          $          130s_colaizzo@fin.gov
+     106      THERSA|ARREDONDO               02.02.1964     F            2      Administrative Clerk         Provides administrative suppoHourly          $             t_arredondo@@gmail.com
+     107      AMPARO # SYKES                 29.02.1960   Female        16      IT Manager                   Oversees the planning and cooYearly          $          130a_sykes@ccf.org
+     108      JORGE *BLACKWELL               08.05.1955     M            7      Assistant                    Works  in any number of areasHourly          $             j_blackwell@hotmail.com
+     109      TYLER *BOOTH                   26.01.1972     M            4      Finance Clerk                Provides support to the FinanHourly          $             t_booth@gmail.com
+     110      JORGE *WAYMIRE                 17.02.1988    Male          1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             jorge_waymire@@ffrs.gov
+     111      KENNETH|MEIER                  17.03.1984     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             kenneth_meier@ffrs.gov
+     112      AUBREY *ERWIN                  01.11.1960     M            7      Assistant                    Works  in any number of areasHourly          $             a_erwin@yahoo.com
+     113      CHARLES *STILES                25.08.1981     M            4      Finance Clerk                Provides support to the FinanHourly          $             c_stiles@gmail.com
+     114      LOWELL *BAER                   01.08.1951     M            3      HR Clerk                     Provides support to the HR MaHourly          $             l_baer@@fin.gov
+     115      TRACEY *ONOFRIO                07.01.1986     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             t_onofrio@@ccf.org
+     116      STELLA *HIEBER                 23.07.1972     F            2      Administrative Clerk         Provides administrative suppoHourly          $             stella_hieber@hotmail.com
+     117      ROSEANNE *VILLANUEVA           14.06.1955   Female         9      CEO                          Chief Executive Officer      Yearly          $            7roseanne_villanueva@yahoo.com
+     118      VALENTIN # PARRISH             22.11.1978   Males          2      Administrative Clerk         Provides administrative suppoHourly          $             valentin.parrish@rrg.net
+     119      TERESITA *RUSH                 05.07.1991     F            6      Social Media Assistant       Provides support to the SociaHourly          $             t_rush@yahoo.com
+     120      CAREY *HALEY                   04.02.1979     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             c_haley@yahoo.com
+     121      BURT # PLATT                   27.02.1962     M           23      Workforce Manager            Responsible for coordinating Yearly          $             b_platt@hotmail.com
+     122      ZORA *TATE                     23.06.1967   Female         7      Assistant                    Works  in any number of areasHourly          $             zora_tate@jcl.net
+     123      PENELOPE|ROOT                  16.07.1963   Female         3      HR Clerk                     Provides support to the HR MaHourly          $             penelope.root@@rrg.net
+     124      DENNY *MORALES                 21.03.1995     M            7      Assistant                    Works  in any number of areasHourly          $             denny_morales@hotmail.com
+     125      DALE|BRANCH                    06.04.1982     M           14      Operations Manager           Oversees all logistical aspecY               $          110d_branch@live.com
+     126      LAURENCE *METCALF              13.06.1956   Males          7      Assistant                    Works  in any number of areasHourly          $             laurence.metcalf@yahoo.com
+     127      MERYL *BENNETT                 25.04.1963  Females         7      Assistant                    Works  in any number of areasHourly          $             m_bennett@@nnl.com
+     128      BERNARDO|RICHEY                07.03.1951     M            7      Assistant                    Works  in any number of areasHourly          $             b_richey@@live.com
+     129      DAN|KINNEY                     12.02.1974   Males          4      Finance Clerk                Provides support to the FinanHourly          $             d_kinney@hotmail.com
+     130      ARCHIE # ATKINSON              06.03.1970     M            4      Finance Clerk                Provides support to the FinanHourly          $             a_atkinson@ccf.org
+     131      HUGH # VARRIANO                10.02.1958     M           10      Volunteer Coordinator        Coordinates  recruitment and Yearly          $            9hugh.varriano@gmail.com
+     132      SONYA *HOLBROOK                19.12.1969   Female        16      IT Manager                   Oversees the planning and cooYearly          $          130s_holbrook@rnl.com
+     133      PATRICA *OLSEN                 12.09.1982     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             p_olsen@gmail.com
+     134      DELIA *SHOMO                   19.12.1986   Female         2      Administrative Clerk         Provides administrative suppoHourly          $             d_shomo@yahoo.com
+     135      CARLA|VINSON                   21.01.1958     F            7      Assistant                    Works  in any number of areasHourly          $             c_vinson@ccf.org
+     136      FRANCIS # NGUYEN               10.11.1986  Females        13      Social Media Coordinator     Manages content across socialYearly          $            7f_nguyen@live.com
+     137      WILLARD # PUTNAM               28.08.1958     M            3      HR Clerk                     Provides support to the HR MaHourly          $             w_putnam@gmail.com
+     138      TARSHA *WILKINSON              02.04.1963   Female         2      Administrative Clerk         Provides administrative suppoHourly          $             t_wilkinson@@hr.org
+     139      DEBBY # DUNLAP                 04.01.1974   Female        23      Workforce Manager            Responsible for coordinating Yearly          $             debby_dunlap@jcl.net
+     140      GILDA *PERRY                   20.07.1993     F            6      Social Media Assistant       Provides support to the SociaHourly          $             g_perry@yahoo.com
+     141      GARRY # SANTANA                02.07.1993    Male          4      Finance Clerk                Provides support to the FinanH               $             g_santana@live.com
+     142      NICKOLAS *NUNEZ                03.03.1994     M            7      Assistant                    Works  in any number of areasHourly          $             nickolas.nunez@gmail.com
+     143      PALMA *GRIER                   24.08.1962     F            4      Finance Clerk                Provides support to the FinanHourly          $             p_grier@yahoo.com
+     144      RUSSELL # WHITTINGTON          01.09.1957     M            8      Workforce Support            Provides support to the WorkfH               $             russell_whittington@hotmail.com
+     145      OLIVE|SALMON                   07.05.1954     F           23      Workforce Manager            Responsible for coordinating Y               $             o_salmon@ccf.org
+     146      GARRETT # BOLLINGER            19.12.1970     M            1      Helpdesk Advisor             Works on the helpdesk        H               $             g_bollinger@@gmail.com
+     147      IGNACIO *COKLEY                23.01.1955     M            6      Social Media Assistant       Provides support to the SociaHourly          $             ignacio_cokley@jcl.net
+     148      NOBLE *MEINERDING              21.08.1950     M           20      HR Manager                   Manages the recruitment, reteYearly          $            7n_meinerding@@ccf.org
+     149      THELMA *SKURSKY                28.04.1959     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             t_skursky@@rnl.com
+     150      AL *BOWLES                     01.02.1969     M            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             al.bowles@@hotmail.com
+     151      CRAIG # COUSEY                 16.02.1970     M            8      Workforce Support            Provides support to the WorkfHourly          $             c_cousey@gmail.com
+     152      TRACI # BROOKS                 15.02.1969     F            1      Helpdesk Advisor             Works on the helpdesk        H               $             traci_brooks@@hotmail.com
+     153      ISABELLA *WATERMAN             01.01.1979     F            4      Finance Clerk                Provides support to the FinanHourly          $             isabella.waterman@rrg.net
+     154      JEROME *JACKSON                23.01.1956     M            4      Finance Clerk                Provides support to the FinanHourly          $             jerome.jackson@rrg.net
+     155      SILAS *DIAS                    08.02.1997    Male         13      Social Media Coordinator     Manages content across socialYearly          $            7s_dias@hotmail.com
+     156      TOD|CLARKE                     04.04.1964     M            7      Assistant                    Works  in any number of areasHourly          $             t_clarke@ccf.org
+     157      DONNELL *MYLES                 02.01.1991     M            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             d_myles@gmail.com
+     158      KEITH # MEADOWS                08.08.1959    Male          2      Administrative Clerk         Provides administrative suppoH               $             k_meadows@live.com
+     159      JOHNNIE # PRESTON              19.09.1957     M            4      Finance Clerk                Provides support to the FinanHourly          $             johnnie.preston@gmail.com
+     160      NANETTE *TALBOT                29.04.1994     F            4      Finance Clerk                Provides support to the FinanHourly          $             n_talbot@hotmail.com
+     161      RENATA *ENGLISH                03.01.1956  Females         7      Assistant                    Works  in any number of areasHourly          $             r_english@gmail.com
+     162      SAMMIE|DICKENS                 05.07.1972     F            3      HR Clerk                     Provides support to the HR MaHourly          $             s_dickens@msv.org
+     163      ANDRA # CAREY                  27.11.1987  Females         3      HR Clerk                     Provides support to the HR MaH               $             a_carey@gmail.com
+     164      GREGOR *WOLNY                  30.04.1980    Male          7      Assistant                    Works  in any number of areasHourly          $             g_wolny@yahoo.com
+     165      LUTHER # DOYLE                 29.04.1998    Male         10      Volunteer Coordinator        Coordinates  recruitment and Yearly          $            9l_doyle@gmail.com
+     166      ENOLA *AUSTIN                  23.11.1991   Female         4      Finance Clerk                Provides support to the FinanHourly          $             e_austin@nnl.com
+     167      DARIUS *NOBLE                  06.12.1959     M            7      Assistant                    Works  in any number of areasHourly          $             d_noble@gmail.com
+     168      WILTON # SEXTON                03.12.1982     M            2      Administrative Clerk         Provides administrative suppoHourly          $             w_sexton@msv.org
+     169      KATHY|KRAMER                   20.02.1989   Female         7      Assistant                    Works  in any number of areasHourly          $             kathy_kramer@yahoo.com
+     170      LUPE *MAILLARD                 23.04.1981   Female         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             lupe_maillard@hotmail.com
+     171      LEANNE *NIELSEN                22.06.1982     F            1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             l_nielsen@gmail.com
+     172      SEYMOUR *GROVES                02.05.1978     M            4      Finance Clerk                Provides support to the FinanHourly          $             seymour.groves@rrg.net
+     173      GLENNA # FELTON                21.06.1964     F            2      Administrative Clerk         Provides administrative suppoH               $             g_felton@hotmail.com
+     174      LIN *PALAIA                    03.12.1961   Female         7      Assistant                    Works  in any number of areasHourly          $             lin.palaia@yahoo.com
+     175      SHANELL *ORTIZ                 29.08.1962     F            6      Social Media Assistant       Provides support to the SociaHourly          $             shanell_ortiz@jcl.net
+     176      NICOLETTE # DAVISON            17.05.1996   Female         3      HR Clerk                     Provides support to the HR MaH               $             n_davison@ccf.org
+     177      GREGORIA|RYDER                 21.09.1955  Females         2      Administrative Clerk         Provides administrative suppoHourly          $             gregoria.ryder@gmail.com
+     178      KARRIE|TRUJILLO                08.11.1990  Females         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             k_trujillo@hr.org
+     179      STACEY *SWITZER                23.07.1955   Female         2      Administrative Clerk         Provides administrative suppoHourly          $             stacey.switzer@hotmail.com
+     180      KATHERYN # SPEER               11.02.1976   Female         7      Assistant                    Works  in any number of areasH               $             k_speer@gmail.com
+     181      PRUDENCE *HACKETT              30.09.1950   Female        10      Volunteer Coordinator        Coordinates  recruitment and Yearly          $            9p_hackett@@hotmail.com
+     182      ROSANNE *CORCORAN              19.01.1977  Females         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             rosanne_corcoran@jcl.net
+     183      ROSALIE|STEM                   15.07.1985   Female         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             rosalie.stem@hotmail.com
+     184      GEORGE # LYONS                 12.03.1984    Male          6      Social Media Assistant       Provides support to the SociaHourly          $             george_lyons@ffrs.gov
+     185      JAYNE *HARMAN                  11.01.1982     F            2      Administrative Clerk         Provides administrative suppoHourly          $             j_harman@yahoo.com
+     186      MALLORY # WORRELL              25.01.1992   Female        23      Workforce Manager            Responsible for coordinating Yearly          $             m_worrell@hotmail.com
+     187      CAMERON # NORMAN               16.12.1974     M            7      Assistant                    Works  in any number of areasH               $             cameron.norman@yahoo.com
+     188      BERNARD *CROSBY                06.02.1977     M            6      Social Media Assistant       Provides support to the SociaHourly          $             b_crosby@yahoo.com
+     189      SHANELL *VILLALOBOS            19.03.1960     F            7      Assistant                    Works  in any number of areasHourly          $             s_villalobos@yahoo.com
+     190      EVELYN *DEMESA                 08.06.1961     F           10      Volunteer Coordinator        Coordinates  recruitment and Y               $            9e_demesa@live.com
+     191      TY *LABRECHE                   25.06.1966    Male          3      HR Clerk                     Provides support to the HR MaHourly          $             t_labreche@hotmail.com
+     192      BRANDEE # MEANS                03.06.1962  Females         6      Social Media Assistant       Provides support to the SociaH               $             b_means@nnl.com
+     193      LARISSA # COTTRELL             10.08.1957     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             l_cottrell@gmail.com
+     194      FRIEDA *BRAND                  28.04.1965     F            6      Social Media Assistant       Provides support to the SociaHourly          $             frieda_brand@hotmail.com
+     195      DANI *GRIFFIN                  24.07.1994     F           14      Operations Manager           Oversees all logistical aspecYearly          $          110d_griffin@gmail.com
+     196      LEE *DOW                       28.12.1960    Male         11      Sponsorship Coordinator      Identifies, develops and mainYearly          $            7l_dow@yahoo.com
+     197      MEAGAN|BRUCE                   20.03.1982     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             m_bruce@live.com
+     198      JEANETTE *DOYLE                14.10.1989   Female         5      Marketing Assistant          Provides support to the MarkeHourly          $             jeanette_doyle@jcl.net
+     199      ANTHONY *SHAW                  27.06.1977     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             anthony.shaw@rrg.net
+     200      ROBYN # ROSA                   13.05.1984   Female         3      HR Clerk                     Provides support to the HR MaHourly          $             r_rosa@msv.org
+     201      RANDI # CHAFFINS               27.08.1979     F            4      Finance Clerk                Provides support to the FinanH               $             r_chaffins@gmail.com
+     202      MARJORIE *BLEDSOE              13.07.1969     F            6      Social Media Assistant       Provides support to the SociaHourly          $             m_bledsoe@gmail.com
+     203      DALE *PEARSON                  01.11.1975     M            4      Finance Clerk                Provides support to the FinanHourly          $             d_pearson@live.com
+     204      PAULA|BROWER                   09.04.1960     F            9      CEO                          Chief Executive Officer      Yearly          $            7paula_brower@hotmail.com
+     205      DEVIN *MEYERS                  01.07.1973    Male          3      HR Clerk                     Provides support to the HR MaHourly          $             d_meyers@nnl.com
+     206      CHANTEL *LINDSEY               14.04.1972     F            4      Finance Clerk                Provides support to the FinanHourly          $             chantel_lindsey@ffrs.gov
+     207      TOMAS|ABERNATHY                18.11.1958     M            2      Administrative Clerk         Provides administrative suppoHourly          $             t_abernathy@hr.org
+     208      KRISTI # CROOK                 16.10.1972     F            2      Administrative Clerk         Provides administrative suppoH               $             k_crook@hr.org
+     209      RAMIRO # HIATT                 25.05.1952     M            7      Assistant                    Works  in any number of areasH               $             ramiro.hiatt@@yahoo.com
+     210      MARANDA *MEIER                 18.08.1952   Female         2      Administrative Clerk         Provides administrative suppoHourly          $             m_meier@@live.com
+     211      HESTER *CARDENAS               05.01.1975     F            8      Workforce Support            Provides support to the WorkfHourly          $             h_cardenas@gmail.com
+     212      JOESPH # LANKFORD              06.03.1993     M            5      Marketing Assistant          Provides support to the MarkeH               $             joesph_lankford@hotmail.com
+     213      BRANDY # MUELLER               15.02.1972     F            5      Marketing Assistant          Provides support to the MarkeH               $             b_mueller@hotmail.com
+     214      MAUD *MORGAN                   19.10.1971     F            2      Administrative Clerk         Provides administrative suppoHourly          $             m_morgan@gmail.com
+     215      IDA|GUERRERO                   30.11.1989  Females         6      Social Media Assistant       Provides support to the SociaHourly          $             i_guerrero@hr.org
+     216      TOMASA # HANDY                 14.12.1956     F            1      Helpdesk Advisor             Works on the helpdesk        H               $             t_handy@hotmail.com
+     217      DANNY *WILLARD                 26.11.1953     M           23      Workforce Manager            Responsible for coordinating Yearly          $             d_willard@hotmail.com
+     218      DEMETRA|DURHAM                 01.05.1998     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             d_durham@rnl.com
+     219      SAUL # PYLE                    26.04.1998     M            4      Finance Clerk                Provides support to the FinanH               $             s_pyle@fin.gov
+     220      CECELIA *MCDONALD              22.06.1968     F            6      Social Media Assistant       Provides support to the SociaHourly          $             c_mcdonald@nnl.com
+     221      JULES *BLACKMAN                01.07.1979    Male          4      Finance Clerk                Provides support to the FinanHourly          $             jules_blackman@hotmail.com
+     222      DEBBY *NUGENT                  03.11.1958     F            4      Finance Clerk                Provides support to the FinanHourly          $             d_nugent@rnl.com
+     223      MARTIN|JIMENEZ                 05.05.1994    Male          1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             m_jimenez@hotmail.com
+     224      WARREN # PINTO                 16.10.1973     M            8      Workforce Support            Provides support to the WorkfH               $             warren.pinto@rrg.net
+     225      JUDI *NEWMAN                   15.03.1961     F            2      Administrative Clerk         Provides administrative suppoHourly          $             j_newman@ccf.org
+     226      BORIS *LEBLANC                 28.08.1977     M            6      Social Media Assistant       Provides support to the SociaHourly          $             boris_leblanc@jcl.net
+     227      GERTRUDE # ALFARO              07.01.1972     F           19      Administrative Manager       Oversees the administrative fYearly          $            6g_alfaro@rnl.com
+     228      JONATHON|DELASANCHA            17.06.1952     M            5      Marketing Assistant          Provides support to the MarkeHourly          $             jonathon.delasancha@@rrg.net
+     229      LIZABETH|HUMPHREY              08.02.1998   Female         7      Assistant                    Works  in any number of areasHourly          $             l_humphrey@ccf.org
+     230      KATHI *FULTON                  10.06.1977   Female         1      Helpdesk Advisor             Works on the helpdesk        Hourly          $             k_fulton@yahoo.com
+     231      DENIS|BUCK                     05.06.1966     M            3      HR Clerk                     Provides support to the HR MaHourly          $             d_buck@hotmail.com
+     232      BRET # ACUFF                   26.01.1951     M            5      Marketing Assistant          Provides support to the MarkeH               $             b_acuff@@hotmail.com
+     233      BEULAH # OSTOLAZA              13.10.1955     F            7      Assistant                    Works  in any number of areasH               $             b_ostolaza@msv.org
+     234      RODOLFO # MERCADO              11.02.1954     M            7      Assistant                    Works  in any number of areasHourly          $             r_mercado@yahoo.com
+     235      LEONARDO # CONNER              16.05.1998     M            3      HR Clerk                     Provides support to the HR MaHourly          $             l_conner@live.com
+     236      ARTHUR *YUM                    26.03.1957     M            4      Finance Clerk                Provides support to the FinanHourly          $             a_yum@yahoo.com
+     237      MARSHALL # CHANG               01.08.1984     M            8      Workforce Support            Provides support to the WorkfH               $             m_chang@gmail.com
+     238      CHUN|RYAN                      02.03.1974   Female         5      Marketing Assistant          Provides support to the MarkeHourly          $             c_ryan@yahoo.com
+     239      JACK|GRUBB                     06.01.1973    Male          3      HR Clerk                     Provides support to the HR MaHourly          $             j_grubb@hr.org
+     240      BLANCH *HARDING                08.07.1987   Female         7      Assistant                    Works  in any number of areasHourly          $             b_harding@fin.gov
+     241      ANGEL # JERNIGAN               20.01.1962   Female         6      Social Media Assistant       Provides support to the SociaHourly          $             a_jernigan@ccf.org
+     242      STEPHAINE *FARRELL             10.12.1978   Female        23      Workforce Manager            Responsible for coordinating Y               $             s_farrell@yahoo.com
+     243      ELIJAH *SNOW                   07.01.1990     M           23      Workforce Manager            Responsible for coordinating Yearly          $             e_snow@yahoo.com
+     244      RORY *HENGEL                   22.05.1996     M            7      Assistant                    Works  in any number of areasHourly          $             r_hengel@hotmail.com
+     245      JOSEFINA *CHRISTIAN            16.01.1997     F            5      Marketing Assistant          Provides support to the MarkeHourly          $             josefina.christian@yahoo.com
+     246      JANNA *HILLS                   14.10.1995   Female         5      Marketing Assistant          Provides support to the MarkeHourly          $             janna_hills@hotmail.com
+     247      QUINCY # LAMBERT               21.09.1977    Male          2      Administrative Clerk         Provides administrative suppoH               $             quincy_lambert@hotmail.com
+     248      JERRY # DARLING                25.02.1980     F            6      Social Media Assistant       Provides support to the SociaHourly          $             j_darling@ccf.org
+     249      SUSIE *CARDONA                 11.03.1986   Female         7      Assistant                    Works  in any number of areasHourly          $             susie_cardona@yahoo.com
+     250      ALEXANDRIA *SMALLS             17.05.1980   Female         6      Social Media Assistant       Provides support to the SociaHourly          $             alexandria.smalls@hotmail.com
+     251      DESMOND *STONE                 28.03.1991     M           20      HR Manager                   Manages the recruitment, reteY               $            7d_stone@gmail.com
+ TOTAL STAFF: 251
+
+             216
+              35
+             119
+             132
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

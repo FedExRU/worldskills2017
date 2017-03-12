@@ -1,0 +1,240 @@
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Marathon Skills 2017\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Сессия 1\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormWhitchRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistration.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathon.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathonConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfile.resources
+C:\Users\wsr2017\Desktop\Сессия 2\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInformationAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint1.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint2.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint3.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint4.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint5.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint6.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint7.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint8.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart1.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart2.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart3.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfile.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInformationAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInteractiveMap.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistration.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathon.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathonConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormWhitchRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddEditCharity.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteers.resources
+C:\Users\wsr2017\Desktop\Сессия 3\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteersLoading.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddEditCharity.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMICalculator.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint1.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint2.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint3.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint4.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint5.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint6.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint7.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint8.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart1.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart2.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart3.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfile.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInformationAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInteractiveMap.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistration.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathon.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathonConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteers.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteersLoading.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormWhitchRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculator.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculatorInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAllRaces.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCoordinator.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunnersListCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 4\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddEditCharity.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAllRaces.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMICalculator.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculator.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculatorInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListAdmin.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint1.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint2.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint3.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint4.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint5.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint6.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint7.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint8.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart1.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart2.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart3.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCoordinator.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfile.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInformationAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInteractiveMap.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistration.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathon.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathonConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunnersListCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteers.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteersLoading.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormWhitchRunner.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunnerProfileCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfileCoord.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormPrintSert.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormUsersList.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddUser.resources
+C:\Users\wsr2017\Desktop\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditUser.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe.config
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.exe
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\bin\Debug\Marathon Skills 2017 - Program.pdb
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csprojResolveAssemblyReference.cache
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Form1.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddEditCharity.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAddUser.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAdmin.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormAllRaces.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMICalculator.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculator.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormBMRCalculatorInfo.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityList.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListAdmin.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCharityListCoord.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint1.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint2.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint3.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint4.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint5.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint6.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint7.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPoint8.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart1.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart2.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCheckPointStart3.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormCoordinator.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfile.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditRunnerProfileCoord.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormEditUser.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInformationAboutMarathonSkills.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormInteractiveMap.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormMoreAboutMarathonSkills.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormPrintSert.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistration.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathon.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRegistrationMarathonConfirmation.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunner.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunnerProfileCoord.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormRunnersListCoord.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSignup.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorship.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipCharityInfo.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormSponsorshipConfirmation.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormUsersList.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteers.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormVolunteersLoading.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.FormWhitchRunner.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon_Skills_2017___Program.Properties.Resources.resources
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.csproj.GenerateResource.Cache
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.exe
+C:\Session5\Урядышев. Сессия 5\Сессия 5\Marathon Skills 2017 - Program\Marathon Skills 2017 - Program\obj\Debug\Marathon Skills 2017 - Program.pdb
